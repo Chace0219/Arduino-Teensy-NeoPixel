@@ -1,10 +1,7 @@
 /*
 ||
 || @file   Teensy_NeoPixel.ino
-|| @version 1.0
-|| @author  Jin zhouyun
-|| @contact 2435575291@qq.com
-||
+
 || @description
 ||
 */
