@@ -1,4 +1,4 @@
-/* Created By jinzhouyun */
+
 /*
 ||
 || @file 	FBD.h
